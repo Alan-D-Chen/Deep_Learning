@@ -6,7 +6,7 @@ coding lines for Deep learning
 
 >desicion tree<br>
 
-If you get that :
+If you get that :<br>
 '
 'dot' 不是内部或外部命令，也不是可运行的程序 或批处理文件。
 '<br>
@@ -18,7 +18,7 @@ If you get that :
  
  <br>
  
-If you get that :
+If you get that :<br>
 '
 '_csv.reader' object has no attribute 'next'
 '<br>
